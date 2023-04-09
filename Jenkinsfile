@@ -2,4 +2,4 @@
 env.component="catalogue"
 env.app_lang = "nodejs"
 
-ci-scripted()
+ci_scripted()
